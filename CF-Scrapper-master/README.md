@@ -23,4 +23,4 @@ Terminal commands for requirement installation in Ubuntu:
   sudo pip3 install pdfkit
   sudo apt-get install wkhtmltopdf
   
-Created by Trishala Naman
+
